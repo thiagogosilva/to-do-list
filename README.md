@@ -16,6 +16,12 @@ Um mini projeto feito com HTML, CSS e JavaScript puro, com foco em manipulação
 **Aprendizados principais:**  
 Manipulação de DOM, eventos (`click`, `keydown`, `dblclick`), funções reutilizáveis, debug e `localStorage`.
 
+## 🧑‍💻 Desenvolvido por
+
+**Thiago Silva**  
+- [GitHub](https://github.com/thiagogosilva)
+- [LinkedIn](https://www.linkedin.com/in/thiagogosilva)
+
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto em funcionamento aqui:  
